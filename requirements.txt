@@ -1,0 +1,15 @@
+Flask
+Flask_Script
+SQLAlchemy
+Flask_Admin
+alembic
+Flask_SQLAlchemy
+Flask_Mail
+Flask_WTF
+Flask_Babel
+Flask_Bootstrap
+Flask-User
+pytest
+Flask_Migrate
+WTForms
+Fabric
